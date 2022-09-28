@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Full Stack Engineer Web and mobile development
+- 🔭 I’m a Full Stack Engineer Web and Software Developer
 
 - 🌱 I am updating myself on all latest technologies in the Tech Space
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about anything about tech, I would be glad to answer you.
 
-- 📫 **How to reach me **kiisifelix06@gmail.com****
+- 📫 **How to reach me **collinstb01.com****
 
 - 🥅 Goals: Contribute more to Open Source projects
 
