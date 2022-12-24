@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Collins Eguasa</h1>
-<h3 align="center">A FullStack Software Developer and Fast Rising Web 3 Developer</h3>
+<h3 align="center">A FullStack Software and BlockChain Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=collinstb01" alt="collinstb01" /></a> </p>
 
