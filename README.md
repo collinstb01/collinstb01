@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **collinstb01@gmail.com**
 
-- ⚡ Fun fact **I am always ready to connect, share ideas and fun to be with**
+- ⚡ Fun fact **I am always ready to connect on all socials, share ideas and I'm fun to be with**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
