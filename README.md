@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=collinstb01" alt="collinstb01" /></a> </p> -->
-- 🌱 I’m currently Building on **Solana and EVM's compatible chains**
+- 🌱 Right now, I’m upskilling in AI Engineering - LLM and NLP (Large Language Models and Natural Language Processing).**
 
 - 💬 Ask me about **React js, Rust, Solidity, MERN, Web3 , The Blockchain, Freenlancing etc**
 
