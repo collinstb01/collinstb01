@@ -1,25 +1,291 @@
-<h1 align="center">Hi 👋, I'm Collins Eguasa</h1>
-<h3 align="center">Software Engineer</h3>
+# 👋 Hi, I'm Collins Eguasa (TB)
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=collinstb01" alt="collinstb01" /></a> </p> -->
-- 🌱 Right now, I’m upskilling in AI Engineering - LLM and NLP (Large Language Models and Natural Language Processing).**
+🚀 **Software & AI Engineer | Full-Stack Developer | Backend Architect**
 
-- 💬 Ask me about **React js, Rust, Solidity, MERN, Web3 , The Blockchain, Freenlancing etc**
+I’m a Full-Stack Engineer with **4+ years of experience building fintech, utility, Web3, and AI-powered platforms**. I enjoy designing scalable backend systems, building clean APIs, and developing production-ready web and mobile applications.
 
-- 📫 How to reach me **collinstb01@gmail.com**
+My work spans **backend architecture, frontend development, blockchain integrations, and AI-powered systems**. I focus heavily on building **secure, scalable systems** and taking products **from system design to production deployment**.
 
-- ⚡ Fun fact **I am always ready to connect on all socials, share ideas and I'm fun to be with**
+I’m particularly interested in the intersection of:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/collins-eguasa-181200239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/collins-eguasa-181200239" height="30" width="40" /></a>
-</p>
+- Artificial Intelligence
+- Backend Architecture
+- Developer Tools
+- Web3 Infrastructure
+- Scalable Fintech Platforms
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=collinstb01&show_icons=true&locale=en&layout=compact" alt="collinstb01" /></p>
+# 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=collinstb01&show_icons=true&locale=en" alt="collinstb01" /></p>
+## 💻 Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collinstb01&" alt="collinstb01" /></p>
+**Languages**
+- Python
+- Node.js
+- PHP
+- TypeScript
+- C# (.NET)
+
+**Frameworks**
+- FastAPI
+- Express.js
+- NestJS
+- Laravel
+- .NET Web API
+
+**Architecture**
+- REST APIs
+- Microservices
+- Event-driven systems
+- Background processing
+- Queue systems
+- Secure authentication systems
+
+---
+
+## 🌐 Frontend
+
+- React
+- Next.js
+- TypeScript
+- Modern component-based architectures
+
+Focused on building **clean UI connected to scalable backend systems**.
+
+---
+
+## 📱 Mobile Development
+
+- React Native
+- Cross-platform mobile apps
+- Blockchain wallet integrations
+
+---
+
+## 🔗 Web3
+
+- Wallet integrations
+- NFT platforms
+- Blockchain APIs
+- Crypto wallet infrastructure
+- Solidity
+- Rust
+
+---
+
+## 🗄️ Databases
+
+**SQL**
+- PostgreSQL
+- MySQL
+
+**NoSQL**
+- MongoDB
+- Redis
+
+---
+
+## ⚙️ DevOps & Infrastructure
+
+- Docker
+- GitHub
+- CI/CD workflows
+- Cloud deployments
+- API infrastructure
+
+---
+
+# 💼 Professional Experience
+
+## Senior Full-Stack / Backend Engineer — Fintech & Utility Systems
+
+Led backend architecture for a **scalable utility fintech platform** supporting web and mobile applications.
+
+Key contributions:
+
+- Designed **wallet and transaction systems**
+- Built **secure APIs for financial transactions**
+- Implemented **role-based authentication**
+- Integrated **multiple payment providers**
+- Built a comprehensive **admin dashboard for operations**
+
+**Tech Stack**
+
+Laravel • PHP • MySQL • REST APIs • Queues • React Integration
+
+---
+
+## Lead Backend Engineer
+
+Designed and maintained backend systems powering production applications.
+
+Responsibilities:
+
+- Designing scalable APIs
+- Managing databases
+- Improving server reliability and performance
+- Implementing secure data flows and validation systems
+
+**Tech Stack**
+
+Node.js • APIs • Database Architecture
+
+---
+
+## Frontend & Web3 Developer
+
+Worked on a **Web3 NFT social platform** enabling users to view NFTs across multiple blockchains.
+
+Responsibilities:
+
+- Implemented wallet connectivity
+- Built responsive user interfaces
+- Integrated blockchain APIs
+
+**Tech Stack**
+
+React • Web3 • Wallet Integrations • Blockchain APIs
+
+---
+
+## Full-Stack Web & Mobile Developer
+
+Built and maintained multiple production applications while mentoring developers.
+
+Highlights:
+
+- Delivered full-stack web & mobile solutions
+- Mentored **50+ students** in software development
+- Contributed to team growth and engineering best practices
+
+---
+
+# 🚀 Projects
+
+## 🤖 Refactor AI
+
+AI-powered code analysis and architecture audit platform.
+
+Features:
+
+- Analyzes GitHub repositories using **large language models**
+- Generates **architecture reviews**
+- Detects bugs and refactor opportunities
+- Provides **project health metrics**
+
+**Tech**
+
+Python • FastAPI • PostgreSQL • SQLAlchemy • OpenAI API • GitHub API
+
+---
+
+## 💳 Billp
+
+Utility platform with secure transactions and rewards.
+
+Features:
+
+- Wallet infrastructure
+- Utility payments
+- Rewards system
+- Transaction reconciliation
+- Admin dashboard
+
+**Tech**
+
+Laravel • PHP • MySQL • REST APIs
+
+App:
+
+https://apps.apple.com/ng/app/billp-pay-bills-earn-points/id6740905494
+
+---
+
+## 🌐 OVATION
+
+Web3 social platform for NFTs.
+
+Features:
+
+- Wallet connectivity
+- NFT discovery
+- Cross-chain NFT viewing
+
+**Tech**
+
+React • Web3 • Blockchain APIs
+
+---
+
+## 🎉 Fxnction Event Platform
+
+Event management system for creating and sharing micro-events.
+
+Features:
+
+- RSVP management
+- Real-time guest updates
+- Event sharing
+
+**Tech**
+
+NestJS • Node.js • React • Real-time APIs
+
+---
+
+## 🔐 Ellaset Wallet
+
+Mobile crypto wallet similar to MetaMask.
+
+Features:
+
+- Wallet generation
+- Secure seed phrase management
+- Crypto transfers
+- Transaction broadcasting
+
+**Tech**
+
+React Native • Blockchain APIs
+
+---
+
+# 📈 What I’m Currently Focused On
+
+- AI-powered developer tools
+- LLM infrastructure and prompt engineering
+- Backend architecture and scalable APIs
+- DevOps and deployment automation
+- AI + Web3 intersections
+
+---
+
+# 🧠 Interests
+
+- Artificial Intelligence
+- Developer productivity tools
+- Fintech infrastructure
+- Web3
+- Entrepreneurship
+- Real estate technology
+
+---
+
+# 📬 Connect With Me
+
+🌐 Portfolio  
+https://devtb.xyz/
+
+💼 LinkedIn  
+https://www.linkedin.com/in/collins-eguasa-181200239
+
+💻 GitHub  
+https://github.com/collinstb01
+
+📧 Email  
+collinstb01@gmail.com
+
+---
+
+✨ *“Great software is built where clean architecture meets real-world problems.”*
