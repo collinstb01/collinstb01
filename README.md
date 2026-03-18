@@ -288,4 +288,12 @@ collinstb01@gmail.com
 
 ---
 
+## 📊 GitHub Stats
+
+![Collins GitHub stats](https://github-readme-stats.vercel.app/api?username=collinstb01&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=collinstb01&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=collinstb01&layout=compact&theme=radical)
+
 ✨ *“Great software is built where clean architecture meets real-world problems.”*
