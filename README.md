@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Collins Eguasa (TB)
+# 👋 Hi, I'm Collins Eguasa
 
 🚀 **Software & AI Engineer | Full-Stack Developer | Backend Architect**
 
