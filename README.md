@@ -2,7 +2,7 @@
 
 🚀 **Software & AI Engineer | Full-Stack Developer | Backend Architect**
 
-I’m a Full-Stack Engineer with **4+ years of experience building fintech, utility, Web3, and AI-powered platforms**. I enjoy designing scalable backend systems, building clean APIs, and developing production-ready web and mobile applications.
+I’m a Full-Stack Engineer with **5+ years of experience building fintech, utility, Web3, and AI-powered platforms**. I enjoy designing scalable backend systems, building clean APIs, and developing production-ready web and mobile applications.
 
 My work spans **backend architecture, frontend development, blockchain integrations, and AI-powered systems**. I focus heavily on building **secure, scalable systems** and taking products **from system design to production deployment**.
 
@@ -158,96 +158,6 @@ Highlights:
 - Delivered full-stack web & mobile solutions
 - Mentored **50+ students** in software development
 - Contributed to team growth and engineering best practices
-
----
-
-# 🚀 Projects
-
-## 🤖 Refactor AI
-
-AI-powered code analysis and architecture audit platform.
-
-Features:
-
-- Analyzes GitHub repositories using **large language models**
-- Generates **architecture reviews**
-- Detects bugs and refactor opportunities
-- Provides **project health metrics**
-
-**Tech**
-
-Python • FastAPI • PostgreSQL • SQLAlchemy • OpenAI API • GitHub API
-
----
-
-## 💳 Billp
-
-Utility platform with secure transactions and rewards.
-
-Features:
-
-- Wallet infrastructure
-- Utility payments
-- Rewards system
-- Transaction reconciliation
-- Admin dashboard
-
-**Tech**
-
-Laravel • PHP • MySQL • REST APIs
-
-App:
-
-https://apps.apple.com/ng/app/billp-pay-bills-earn-points/id6740905494
-
----
-
-## 🌐 OVATION
-
-Web3 social platform for NFTs.
-
-Features:
-
-- Wallet connectivity
-- NFT discovery
-- Cross-chain NFT viewing
-
-**Tech**
-
-React • Web3 • Blockchain APIs
-
----
-
-## 🎉 Fxnction Event Platform
-
-Event management system for creating and sharing micro-events.
-
-Features:
-
-- RSVP management
-- Real-time guest updates
-- Event sharing
-
-**Tech**
-
-NestJS • Node.js • React • Real-time APIs
-
----
-
-## 🔐 Ellaset Wallet
-
-Mobile crypto wallet similar to MetaMask.
-
-Features:
-
-- Wallet generation
-- Secure seed phrase management
-- Crypto transfers
-- Transaction broadcasting
-
-**Tech**
-
-React Native • Blockchain APIs
 
 ---
 
