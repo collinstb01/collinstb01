@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Collins Eguasa
 
-🚀 **Software & AI Engineer | Full-Stack Developer | Backend Architect**
+ **Software & AI Engineer | Full-Stack Developer | Backend Architect**
 
 I’m a Full-Stack Engineer with **5+ years of experience building fintech, utility, Web3, and AI-powered platforms**. I enjoy designing scalable backend systems, building clean APIs, and developing production-ready web and mobile applications.
 
