@@ -8,7 +8,7 @@ My work spans **backend architecture, frontend development, blockchain integrati
 
 I’m particularly interested in the intersection of:
 
-- Artificial Intelligence
+- Artificial Intelligence ( AI )
 - Backend Architecture
 - Developer Tools
 - Web3 Infrastructure
