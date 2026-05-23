@@ -2,9 +2,8 @@
 
  **Software & AI Engineer | Full-Stack Developer | Backend Architect**
 
-I’m a Full-Stack Engineer with **5+ years of experience building fintech, utility, Web3, and AI-powered platforms**. I enjoy designing scalable backend systems, building clean APIs, and developing production-ready web and mobile applications.
 
-My work spans **backend architecture, frontend development, blockchain integrations, and AI-powered systems**. I focus heavily on building **secure, scalable systems** and taking products **from system design to production deployment**.
+Backend and full-stack engineer with 5+ years building fintech, SaaS, and AI products in production. I maintain Nextpayday (18,000+ borrowers) and Billp (300+ users) — both on infrastructure I built and manage myself. Beyond client work, I ship my own products: Presency (multi-tenant WaaS), Refactor AI (LLM-powered code audit tool), and PicConvert (image SaaS with published Figma + Framer plugins, 30+ users). I work best with teams that need someone who can own a system end-to-end — architecture, delivery, and everything in between
 
 I’m particularly interested in the intersection of:
 
