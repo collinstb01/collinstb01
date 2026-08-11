@@ -7,7 +7,7 @@ Backend and full-stack engineer with 5+ years building fintech, SaaS, and AI pro
 
 I’m particularly interested in the intersection of
 
-- Artificial Intelligence ( AI )
+- Artificial Intelligence( AI )
 - Backend Architecture
 - Developer Tools
 - Web3 Infrastructure
